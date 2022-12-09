@@ -1,4 +1,4 @@
-# aws-project-
+# aws-project
 Create a public instance and private instance .
 Public IPV4 to Private IPv4 communicate with the each other 
 Using ping command 
